@@ -1,0 +1,12 @@
+Welcome to TextBuddy. myfile.txt is ready for use.
+command: added to myfile.txt: "hello there!"
+command: added to myfile.txt: "Nice to meet you :D"
+command: added to myfile.txt: "Today is a good day!"
+command: deleted from myfile.txt: "Nice to meet you :D"
+command: 1. hello there!
+2. Today is a good day!
+command: deleted from myfile.txt: "hello there!"
+command: all content deleted from myfile.txt
+command: myfile.txt is empty
+command: added to myfile.txt: "I am your TextBuddy"
+command: 

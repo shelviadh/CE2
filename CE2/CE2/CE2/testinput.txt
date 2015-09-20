@@ -1,0 +1,18 @@
+add hello there!
+add Nice to meet you :D
+
+add Today is a good day!
+
+delete 2
+
+display
+
+delete 1
+
+clear
+
+display
+
+add I am your TextBuddy
+
+exit
