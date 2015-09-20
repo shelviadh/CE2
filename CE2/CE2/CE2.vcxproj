@@ -118,13 +118,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\[f11][Shelvia Dwi Hotama][CE1][cpp]\CommandProcessor.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\[f11][Shelvia Dwi Hotama][CE1][cpp]\ReaderWriter.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\[f11][Shelvia Dwi Hotama][CE1][cpp]\TextBuddy.cpp" />
+    <ClCompile Include="CommandProcessor.cpp" />
+    <ClCompile Include="ReaderWriter.cpp" />
+    <ClCompile Include="TextBuddy.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Downloads\[f11][Shelvia Dwi Hotama][CE1][cpp]\CommandProcessor.h" />
-    <ClInclude Include="..\..\..\..\..\Downloads\[f11][Shelvia Dwi Hotama][CE1][cpp]\ReaderWriter.h" />
+    <ClInclude Include="CommandProcessor.h" />
+    <ClInclude Include="ReaderWriter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

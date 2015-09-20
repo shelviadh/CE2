@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\[f11][Shelvia Dwi Hotama][CE1][cpp]\ReaderWriter.cpp">
+    <ClCompile Include="CommandProcessor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\[f11][Shelvia Dwi Hotama][CE1][cpp]\CommandProcessor.cpp">
+    <ClCompile Include="ReaderWriter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\[f11][Shelvia Dwi Hotama][CE1][cpp]\TextBuddy.cpp">
+    <ClCompile Include="TextBuddy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Downloads\[f11][Shelvia Dwi Hotama][CE1][cpp]\ReaderWriter.h">
+    <ClInclude Include="CommandProcessor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\[f11][Shelvia Dwi Hotama][CE1][cpp]\CommandProcessor.h">
+    <ClInclude Include="ReaderWriter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
